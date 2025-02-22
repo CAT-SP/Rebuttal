@@ -1,11 +1,11 @@
 # CAT-Rebuttal
 
 ## C2: Additional baseline (409A&B&C)
-### 1. Added TrustGuard for performance comparison
+### 1. Performance comparison with TrustGuard involved
 <img src="./img/epinions.jpg" width="50%">
 <img src="./img/ciao.jpg" width="100%">
 
-### 2. Added TrustGuard for robustness comparison
+### 2. Robustness comparison with TrustGuard involved
 <img src="./img/robustness.jpg" width="50%">
 
 ## C3: Improvement over baselines (409A&B&D)
