@@ -14,5 +14,5 @@
 
 ## 409C_Response
 ### 1. LSTM generators: We use an LSTM to generate a context embedding by processing an unordered set of item embeddings within the same context.
-### 2. MLP generators: We use an MLP to aggregate embeddings of items with the same context, followed by an elementwise max-pooling operation to obtain a context embedding.
+### 2. MLP generators: We use an MLP to aggregate item embeddings with the same context, followed by an elementwise max-pooling operation to obtain a context embedding.
 <img src="./img/generators.jpg" width="50%">
